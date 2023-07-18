@@ -17,7 +17,7 @@ const Child=({value})=>{
             <button onClick={change}>Show Modal</button>
             {
               a && <div>
-                    <h2>Modal Content</h2>
+                    <h3>Modal Content</h3>
                     <p>This is the modal content</p>
                 </div>
             }

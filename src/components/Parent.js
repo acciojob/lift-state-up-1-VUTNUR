@@ -5,7 +5,7 @@ const Parent=()=>{
     return (
         <div className="parent">
             
-            <p>Parent Component</p>
+            <h1>Parent Component</h1>
             <Child value={setValue}/>
         </div>
     )
